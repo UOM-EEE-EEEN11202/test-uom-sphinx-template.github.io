@@ -15,7 +15,7 @@ The below is some example code.
       winget install -e --id Git.Git
       wsl --install
 
-#. You will be asked to reboot the computer.
+#. You will be asked to reboot the computer. Do this.
 
    .. admonition:: Aside
       :class: dropdown
