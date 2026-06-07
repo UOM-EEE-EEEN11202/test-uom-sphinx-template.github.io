@@ -1,6 +1,6 @@
 # General project setup
-project = "notes-part0"
-copyright = '2026 The University of Manchester. <a class="nav-link text-light" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Released under CC-BY-NC-ND 4.0 license.</a> <a class="nav-link text-light" href="https://uom-eee-eeen11202.github.io/chapters/about/copyright.html">Course copyright statement.</a>'
+project = "Template test"
+copyright = '2026 The University of Manchester. <a class="nav-link text-light" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Released under CC-BY-NC-ND 4.0 license.</a>'
 author = "Alex Casson"
 release = "0.1"
 templates_path = ["_templates"]
@@ -27,9 +27,9 @@ html_theme_path = ["./theme"]
 html_theme = "uom_sphinx_wagtail_theme"
 html_static_path = ["_static"]
 html_theme_options = dict(
-    project_name="EEEN11202 course notes",
-    searchbox_text="Search notes part 0",
-    breadcrumb_home="Part 0",
+    project_name="Template test",
+    searchbox_text="Search template",
+    breadcrumb_home="Home",
     logo_alt="University of Manchester logo",
     logo_url="/",
     logo_width=88,
@@ -39,7 +39,7 @@ html_theme_options = dict(
             "Canvas|https://canvas.manchester.ac.uk/",
         ]
     ),
-    github_url="https://github.com/UOM-EEE-EEEN11202/uom-eee-eeen11202.github.io/tree/main/docs/",
+    github_url="https://github.com/UOM-EEE-EEEN11202/test-uom-sphinx-template.github.io/tree/main/docs/",
 )
 html_show_copyright = True
 html_show_sphinx = False

@@ -1,3 +1,6 @@
+.. role:: console(code)
+   :language: console
+
 Code example
 ============
 The below is some example code. 
